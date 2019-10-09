@@ -1,6 +1,5 @@
 ## demo
-* [工作流](#工作流)
-* [产品库](#产品库)
+[README](../README.md)
 
 ### [工作流](#demo)
 ```javascript
